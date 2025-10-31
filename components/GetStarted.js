@@ -1,5 +1,5 @@
-import { Image, StyleSheet, Text, View, TouchableOpacity } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 const GetStarted = () => {
   const navigation = useNavigation();
